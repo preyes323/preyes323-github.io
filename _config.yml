@@ -9,8 +9,8 @@
 title: Meta
 email: vpaoloreyes@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This my blog that captures my learnings towards creating 'Meta', my attemp at
-  Artificial Intelligence (AI) using Ruby and RoR.
+  This my blog that captures my learnings towards mastering 'Meta-Programming'
+  using Ruby and RoR.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://meta.vpaoloreyes.com" # the base hostname & protocol for your site
 linkedin_username: vpaoloreyes
@@ -19,3 +19,4 @@ twitter_username: vpaoloreyes
 
 # Build settings
 markdown: kramdown
+permalink: /:title
