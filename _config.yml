@@ -20,3 +20,14 @@ twitter_username: vpaoloreyes
 # Build settings
 markdown: kramdown
 permalink: /:title
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: Victor Paolo Reyes
+      layout: "post"
+      comments: true
