@@ -16,10 +16,12 @@ url: "http://meta.vpaoloreyes.com" # the base hostname & protocol for your site
 linkedin_username: vpaoloreyes
 github_username:  preyes323
 twitter_username: vpaoloreyes
+paginate: 3
 
 # Build settings
 markdown: kramdown
 permalink: /:title
+gems: [jekyll-paginate]
 
 # Default settings
 defaults:
@@ -31,3 +33,11 @@ defaults:
       author: Victor Paolo Reyes
       layout: "post"
       comments: true
+  -
+    scope:
+      path: ""
+      type: "drafts"
+    values:
+      author: Victor Paolo Reyes
+      layout: "post"
+      comments: false
