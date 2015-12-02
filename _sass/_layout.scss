@@ -213,6 +213,17 @@
     }
 }
 
+.post-subtitle {
+    font-size: 24px;
+    letter-spacing: -1px;
+    line-height: 1;
+    color: $grey-color;
+
+    @include media-query($on-laptop) {
+        font-size: 18px;
+    }
+}
+
 .post-content {
     margin-bottom: $spacing-unit;
 
