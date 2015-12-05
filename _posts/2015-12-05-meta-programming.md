@@ -6,7 +6,7 @@ categories: General
 <em>(Note images and figures for better visual understanding to follow)</em>
 
 In this article I want to share my search for understanding what `Meta-programming` means and its potentital for creating [Meta](/about/ "Computer that learns, thinks, decides, and acts").
-
+<!--more-->
 My initial approach in searching was to use `Meta-programming` as the keyword. These gave me the following defintions:
 
 > Meta-programs are programs that manipulate other program. - - <cite>Martin Berger and Laurence Tratt; [Program Logics for Homogenous Meta-Programming](http://users.sussex.ac.uk/~mfb21/publications/lpar10/lpar10.pdf)</cite>

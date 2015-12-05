@@ -33,6 +33,7 @@ defaults:
       author: Victor Paolo Reyes
       layout: "post"
       comments: true
+      excerpt_separator: <!--more-->
   -
     scope:
       path: ""
