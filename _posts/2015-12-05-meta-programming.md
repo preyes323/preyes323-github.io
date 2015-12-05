@@ -3,6 +3,8 @@ title: "What is Meta-Programming?"
 subtitle: "A non-technical perspective"
 categories: General
 ---
+<em>(Note images and figures for better visual understanding to follow)</em>
+
 In this article I want to share my search for understanding what `Meta-programming` means and its potentital for creating [Meta](/about/ "Computer that learns, thinks, decides, and acts").
 
 My initial approach in searching was to use `Meta-programming` as the keyword. These gave me the following defintions:
@@ -33,7 +35,7 @@ I started by first getting the definition for *"Computer Programming"* since it 
 
 > The purpose of programming is to find a sequence of instructions that will automate performing a specific task or solving a given problem. - - <cite>[Wikipedia](https://en.wikipedia.org/wiki/Computer_programming)</cite>
 
-With these, it is made clear is that *Computers* alone can not learn, think, decide, and act. It needs human intervention to be able to perform a set of tasks or solve a problem. Following this, I looked up `Meta` and I came upon this interesting discussion from stackexchange:
+With these, it is made clear is that *Computers* alone can not learn, think, decide, and act. It needs human intervention to be able to perform a set of tasks or solve a problem. Following this, I looked up `Meta` and I came upon this interesting discussion from stackexchange about `Meta` being `self-referential`:
 
 > It originally meant something like "after". Possibly the most prominent use of this sense is the title of Aristotle's Metaphysics, so called because it constitutes those things which are to be studied after one has learned physics.
 This text wound up founding the discipline which we today call "metaphysics", and one way to describe what this subject encompasses is that it covers things at a level of abstraction above physics.
@@ -43,7 +45,4 @@ The above discussion leads to me to the idea that meta-programming is *<u>"makin
  
 >  The modern sense of "an X about X" has given rise to concepts like "meta-cognition" (i.e. cognition about cognition), "meta-emotion" (i.e. emotion about emotion), "meta-discussion" (i.e. discussion about discussion), "meta-joke" (i.e. joke about jokes), and "metaprogramming" (i.e. writing programs that manipulate programs). - - <cite>[Wikipedia](https://en.wikipedia.org/wiki/Meta)</cite>
 
-The key take away I got from this searching exercise is that appending `Meta` to `Programming` suggests that a layer of abstraction is added to the typical programming. It even suggests that a level of autonomy from human intervention can be gained. I also see the current idea of `Meta` having a **self-referential** connotation to further support the idea that a computer will be able to learn, think, decide, and act on its **"own"**. Being self-referential, I imagine that computers would be able to look at its own capabilities and derive from it something different, and consequently repeat this process and evolve itself. 
-
-
-
+The key take away I got from this searching exercise is that appending `Meta` to `Programming` suggests that a layer of abstraction is added to the typical programming. I see this as a way that a program is able to elevate itself and look at programs as something that it can manipulate. It even suggests that a level of autonomy from human intervention can be gained. If previously, human intervention is needed for the program to do a task, the layer of abstraction suggests that __*even*__ just a program can create tasks for another program. I also see the current idea of `Meta` having a **self-referential** connotation to further support the idea that a computer will be able to learn, think, decide, and act on its **"own"**. Being self-referential, I imagine that computers would be able to look at its own capabilities and derive from it something different, and consequently repeat this process and evolve itself. 
